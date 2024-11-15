@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xzeed
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning HTML, CSS.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps.
 - 💞️ I’m looking to collaborate on my private Project. 
 - 📫 How to reach me ... Lol idk, simp
